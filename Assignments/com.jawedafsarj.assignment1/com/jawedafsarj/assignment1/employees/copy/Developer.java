@@ -1,4 +1,4 @@
-package com.jawedafsarj.assignment1.employees;
+package com.jawedafsarj.assignment1.employees.copy;
 
 public class Developer extends Employee {
     private String programmingLanguage;

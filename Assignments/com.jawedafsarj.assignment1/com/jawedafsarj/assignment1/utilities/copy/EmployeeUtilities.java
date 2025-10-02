@@ -1,6 +1,6 @@
-package com.jawedafsarj.assignment1.utilities;
+package com.jawedafsarj.assignment1.utilities.copy;
 
-import com.jawedafsarj.assignment1.employees.Employee;
+import com.jawedafsarj.assignment1.employees.copy.Employee;
 
 public class EmployeeUtilities {
 	 public static void printEmployeeDetails(Employee emp) {
