@@ -1,4 +1,4 @@
-package com.jawedafsarj.assignment1.employees.copy;
+package com.jawedafsarj.assignment1.employees;
 
 public class Employee {
 	private String name;
@@ -19,5 +19,7 @@ public class Employee {
     public void setEmployeeId(int employeeId) { this.employeeId = employeeId; }
 
     public double getSalary() { return salary; }
-    public void setSalary(double salary) { this.salary = salary; }
+    public void setSalary(double salary) { this.salary = salary; 
+    }
+
 }
