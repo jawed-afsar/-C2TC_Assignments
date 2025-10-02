@@ -1,4 +1,4 @@
-package com.jawedafsarj.assignment1.employees;
+package jawedafsarj.assignment1.employees;
 
 public class Manager extends Employee {
     private String department;
