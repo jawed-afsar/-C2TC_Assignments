@@ -1,4 +1,4 @@
-package jawedafsarj.assignment3;
+package assignment3;
 
 public class Transaction {
 	private final double transactionFee = 10.0;

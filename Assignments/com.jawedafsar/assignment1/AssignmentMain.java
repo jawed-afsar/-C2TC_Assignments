@@ -1,8 +1,8 @@
-package jawedafsarj.assignment1;
+package assignment1;
 
-import jawedafsarj.assignment1.employees.Developer;
-import jawedafsarj.assignment1.employees.Manager;
-import jawedafsarj.assignment1.utilities.EmployeeUtilities;
+import assignment1.employees.Developer;
+import assignment1.employees.Manager;
+import assignment1.utilities.EmployeeUtilities;
 
 public class AssignmentMain {
 	public static void main(String[] args) {

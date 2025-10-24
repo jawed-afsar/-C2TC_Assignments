@@ -1,4 +1,4 @@
-package jawedafsarj.assignment5;
+package assignment5;
 
 public class TicketBooking {
 	private String stageEvent;

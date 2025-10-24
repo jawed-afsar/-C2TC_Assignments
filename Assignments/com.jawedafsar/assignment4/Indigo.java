@@ -1,4 +1,4 @@
-package jawedafsarj.assignment4;
+package assignment4;
 
 public class Indigo implements Airfare {
     private Integer hours;

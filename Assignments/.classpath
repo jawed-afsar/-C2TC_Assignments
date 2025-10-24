@@ -5,6 +5,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="com"/>
+	<classpathentry kind="src" path="com.jawedafsar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

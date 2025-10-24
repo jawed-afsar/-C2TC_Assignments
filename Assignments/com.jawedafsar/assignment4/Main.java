@@ -1,4 +1,4 @@
-package jawedafsarj.assignment4;
+package assignment4;
 
 import java.util.Scanner;
 

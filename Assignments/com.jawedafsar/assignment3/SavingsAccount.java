@@ -1,7 +1,7 @@
-package jawedafsarj.assignment3;
+package assignment3;
 
-public class CheckingAccount extends Account {
-    public CheckingAccount(double balance) {
+public class SavingsAccount extends Account {
+    public SavingsAccount(double balance) {
         super(balance);
     }
 
@@ -13,7 +13,7 @@ public class CheckingAccount extends Account {
         if (amount <= balance)
             balance -= amount;
         else
-            System.out.println("Overdraft not allowed!");
+            System.out.println("Insufficient Balance!");
     }
 
     public double getBalance() {

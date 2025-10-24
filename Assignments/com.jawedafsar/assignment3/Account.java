@@ -1,4 +1,4 @@
-package jawedafsarj.assignment3;
+package assignment3;
 
 public abstract class Account {
     protected double balance;

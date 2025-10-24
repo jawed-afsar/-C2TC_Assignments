@@ -1,18 +1,18 @@
-package jawedafsarj.assignment4;
+package assignment4;
 
-public class AirIndia implements Airfare {
+public class KingFisher implements Airfare {
     private Integer hours;
     private Double costPerHour;
 
-    public AirIndia() {}
+    public KingFisher() {}
 
-    public AirIndia(Integer hours, Double costPerHour) {
+    public KingFisher(Integer hours, Double costPerHour) {
         this.hours = hours;
         this.costPerHour = costPerHour;
     }
 
     public Double calculateAmount() {
-        return hours * costPerHour;
+        return (hours * costPerHour) * 4;
     }
 
     public void display() {

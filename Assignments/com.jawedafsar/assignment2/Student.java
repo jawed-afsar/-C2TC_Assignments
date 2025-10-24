@@ -1,4 +1,4 @@
-package jawedafsar.assignment2;
+package assignment2;
 
 public class Student {
 	    public Student() {
